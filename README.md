@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">📫 How to reach me Djaxelwow@gmail.com<br><br>📄 Know about my experiences [My resume is in progress, but I’m open to opportunities.](My resume is in progress, but I’m open to opportunities.)<br><br>⚡ Fun fact I love problem-solving and bringing ideas to life through code!</p>
+<p align="left">📫 How to reach me axelstaerfeldt@gmail.com<br><br>📄 Know about my experiences [My resume is in progress, but I’m open to opportunities.](My resume is in progress, but I’m open to opportunities.)<br><br>⚡ Fun fact I love problem-solving and bringing ideas to life through code!</p>
 
 ###
 
